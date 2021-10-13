@@ -1,2 +1,2 @@
-# IFT6758---NLP-and-CV
+# IFT6758-NLP-and-CV
 Sentiment Analysis and Image classifcation
